@@ -15,3 +15,9 @@ To support 2Market, an analysis was carried out in Python and a Power BI dashboa
 * Python 🐍
 * DAX
 
+#### Notes for Improvement
+Due to the limitation in the provided data, some of the metrics I wish I could feature include: 
+- Total Active Customers (this is to calculate the total number of Customers in the last 3 months)
+- Cohort Retention Analysis (however, my data does not include transaction dates, therefore it is not possible to develop this)
+- Average Basket Size
+- Top Sales Channels (to compare the sales between in-store and online platforms)
