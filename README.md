@@ -9,7 +9,7 @@
 
 To support 2Market, an analysis was carried out in Python and a Power BI dashboard was created to include key metrics for decision-making
 
-<img width="1862" height="1045" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/186b1551-be46-43c8-87ea-6d9c4be0fcba" />
+<img width="1862" height="1047" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/bbf953c7-35be-4599-91c8-29b05f015661" />
 
 #### 🤖 Languages 
 * Python 🐍
